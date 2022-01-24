@@ -1,0 +1,24 @@
+.con-name{
+    font-weight: bolder;
+}
+.text{
+    font: Mochiy Pop P One;
+}
+.para-text{
+    font-size: 13px;
+    text-align: center;
+}
+.book-now-btn{
+    color: dodgerblue;
+    text-align: center;
+    width: 123px;
+    height: 28px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.link{
+    text-decoration: none;
+}
+.text1{
+    color: #09c6f9;
+}
